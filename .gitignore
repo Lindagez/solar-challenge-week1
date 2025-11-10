@@ -1,0 +1,12 @@
+# python
+.venv/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+# data
+data/
+# OS / editors
+.DS_Store
+.vscode/
