@@ -1,4 +1,4 @@
-# 📊 GHI Dashboard (Streamlit)
+# solar-challenge-week1
 
 Interactive Streamlit app to explore Global Hunger Index (GHI) or any numeric metric by country/region.
 
@@ -26,3 +26,4 @@ pip install -r requirements.txt
 
 # 5) Run the app
 streamlit run app/main.py
+
