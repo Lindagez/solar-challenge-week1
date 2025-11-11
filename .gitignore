@@ -1,0 +1,21 @@
+# Python
+pycache/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Streamlit cache
+.streamlit/
+**/.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Data (keep local)
+data/
+
+# Not ignored (ensure screenshots are tracked)
+!dashboard_screenshots/
